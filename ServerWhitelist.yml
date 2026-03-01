@@ -212,6 +212,7 @@ GoogleIDs:
     - 1QtuvbJu1t3hqSL9HbPOjZSkTmljw7GAo # vanaheimr mines and caves
     - 1jjHVbrWwnaaPw1-FUjDUDw2e4clSUm1p # Vanaheimr Ore Veins PBR
     - 1uUzqc2j0P5PGIqty1FOlwlTAg-ogEj67 # Jiaye's Vigilant PBR AIO
+    - 1-_xxVHVVMTc-5eFFtrV8lu1zHFDbEpKF # Immersive Kaidan AIO V5.0.1
 
     # Total Skyrim Overhaul files
     - 144op2Nq9_p5dlwpdQ3uIHB-RN0Zx11Hc # Dobart
@@ -579,6 +580,8 @@ GoogleIDs:
     - 1hLm4nAlg1GID_w868ez3-SN-kj2J0DIe # [KB-47] SYNTHS 1.4.7z
     - 1VUt6NbWWaLWHtOMbFhmsEXPZU5Iy6MV3 # Sdak1 Car Replacer
     - 1NHGQkp27EFkPjQdQRwtXCTuCRRXecF0h # XDI Wolfmark Fix
+    - 1gdAxKoMClHXPE-UDTkA4MJnbdz_FvFKf # F76 Sounds
+    - 1jAouE6-fxaIHSWn8k0n_oflBTi98h3yd # Trauma for Maim 3
 
     # NEFARAM
     - 1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ # Dint Hair Pack 02 SE 1.10
@@ -701,6 +704,7 @@ AllowedPrefixes:
     - https://g-6715.modapi.io # Mod.io CDN for Baldur's Gate 3
     - https://binary.modcdn.io # Mod.io CDN for all Games
     - https://mod.pub/ # New versions of Enderal require manualUrl for mod.pub
+    - https://ggmods.com/
 
     # Common files
     - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW%203.3%20Installer.7z # TTW 3.3 installer
@@ -2361,3 +2365,11 @@ AllowedPrefixes:
     - https://www.patreon.com/file?h=142697088&m=558575507 # Nether's Elana 2.1.0
     - https://www.patreon.com/file?h=142697088&m=561858364 # Nether's Elana 2.1.0 - Approach Test Fix
     - https://www.patreon.com/file?h=135800881&m=511310361 # BakaFactory's Animations for Ostim Standalone
+
+    # Ascended Fates Skyrim AE Modlist
+    - https://mega.nz/file/rJghkKBZ#Orm3SQ4_W7Icpbnjs--FzvX2cJQlZg82WlywEct_Jfw # ZAZ 8.0 CBBE SE Rev2
+    - https://subscribestar.adult/posts/2039736 # BakaFactory SLAL Animation 7.30V LE / SE
+    - https://subscribestar.adult/posts/2011241 # BaboDialogue 6.00V
+    - https://subscribestar.adult/posts/993525 # Baka Motion Data Pack 1.70V
+    - https://subscribestar.adult/posts/1812061 # SLAP Redux 3.62V
+    - https://subscribestar.adult/posts/1078724 # Sexlab Horrible Harassment Expansion [SLHH Expansion] V3.85 Hotfix
